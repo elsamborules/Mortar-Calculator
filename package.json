@@ -1,7 +1,7 @@
 {
-  "name": "squadmc",
-  "description": "The map-based mortar calculator for Squad",
-  "version": "2.14.0",
+  "name": "MAR Mortar Calculator",
+  "description": "The map based mortar calculator for USMC maps",
+  "version": "1.00.0",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
