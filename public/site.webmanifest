@@ -1,6 +1,6 @@
 {
-    "name": "SquadMC",
-    "short_name": "SquadMC",
+    "name": "Marine Assault Regiment USAF Mortar Trajectory Data Calaculator",
+    "short_name": "MAR Mortar Calculator",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
